@@ -1,1 +1,6 @@
-print(" welcome")
+a=10;
+b=20;
+if a==b:
+print("the number is equel");
+else:
+print("the munber is notequel");
